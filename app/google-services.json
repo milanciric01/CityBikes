@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367495942163",
+    "firebase_url": "https://city-bikes-30046-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "city-bikes-30046",
+    "storage_bucket": "city-bikes-30046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367495942163:android:ab45e482d9e996a6826fe6",
+        "android_client_info": {
+          "package_name": "elfak.mosis.citybikes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367495942163-0hg1m7pjvoptru6ev2sgof182n636p8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elfak.mosis.citybikes",
+            "certificate_hash": "4a6f8217010987bc3108cabfc2992d8b262b75cc"
+          }
+        },
+        {
+          "client_id": "367495942163-nvcfm5icoksucq8ref8astjd2282jkpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNpKdyxZGYfsgvZN-VzVXkPcWASrmnHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367495942163-nvcfm5icoksucq8ref8astjd2282jkpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
